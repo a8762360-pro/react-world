@@ -1,0 +1,14 @@
+.countrys{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+.list{
+    text-align: left;
+}
+
+
+.visit-flage{
+    width: 200px;
+    margin: 20px;
+}
